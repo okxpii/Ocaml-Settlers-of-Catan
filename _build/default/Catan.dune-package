@@ -1,0 +1,83 @@
+(lang dune 3.7)
+(name Catan)
+(sections (lib .) (libexec .) (doc ../../doc/Catan))
+(files
+ (lib
+  (META
+   board.ml
+   board.mli
+   catan.a
+   catan.cma
+   catan.cmi
+   catan.cmt
+   catan.cmx
+   catan.cmxa
+   catan.ml
+   catan__Board.cmi
+   catan__Board.cmt
+   catan__Board.cmti
+   catan__Board.cmx
+   catan__Command.cmi
+   catan__Command.cmt
+   catan__Command.cmti
+   catan__Command.cmx
+   catan__Gamestate.cmi
+   catan__Gamestate.cmt
+   catan__Gamestate.cmti
+   catan__Gamestate.cmx
+   catan__Player.cmi
+   catan__Player.cmt
+   catan__Player.cmti
+   catan__Player.cmx
+   command.ml
+   command.mli
+   dune-package
+   gamestate.ml
+   gamestate.mli
+   opam
+   player.ml
+   player.mli))
+ (libexec (catan.cmxs))
+ (doc (README.md)))
+(library
+ (name Catan)
+ (kind normal)
+ (archives (byte catan.cma) (native catan.cmxa))
+ (plugins (byte catan.cma) (native catan.cmxs))
+ (native_archives catan.a)
+ (requires yojson ANSITerminal)
+ (main_module_name Catan)
+ (modes byte native)
+ (modules
+  (wrapped
+   (group
+    (alias
+     (obj_name catan)
+     (visibility public)
+     (kind alias)
+     (source (path Catan) (impl (path catan.ml-gen))))
+    (name Catan)
+    (modules
+     (module
+      (obj_name catan__Board)
+      (visibility public)
+      (source (path Board) (intf (path board.mli)) (impl (path board.ml))))
+     (module
+      (obj_name catan__Command)
+      (visibility public)
+      (source
+       (path Command)
+       (intf (path command.mli))
+       (impl (path command.ml))))
+     (module
+      (obj_name catan__Gamestate)
+      (visibility public)
+      (source
+       (path Gamestate)
+       (intf (path gamestate.mli))
+       (impl (path gamestate.ml))))
+     (module
+      (obj_name catan__Player)
+      (visibility public)
+      (source (path Player) (intf (path player.mli)) (impl (path player.ml))))))
+   (wrapped true))))

@@ -1,0 +1,261 @@
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Start test test suite for game:1:Check tile of index 1.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Test test suite for game:1:Check tile of index 1 is successful.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: End test test suite for game:1:Check tile of index 1.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Start test test suite for game:3:Check tile of index 3.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Test test suite for game:3:Check tile of index 3 is successful.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: End test test suite for game:3:Check tile of index 3.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Start test test suite for game:5:Check tile of index 5.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Test test suite for game:5:Check tile of index 5 is successful.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: End test test suite for game:5:Check tile of index 5.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Start test test suite for game:7:Check tile of index 7.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Test test suite for game:7:Check tile of index 7 is successful.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: End test test suite for game:7:Check tile of index 7.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Start test test suite for game:9:Check tile of index 9.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Test test suite for game:9:Check tile of index 9 is successful.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: End test test suite for game:9:Check tile of index 9.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Start test test suite for game:11:Check tile of index 11.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Test test suite for game:11:Check tile of index 11 is successful.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: End test test suite for game:11:Check tile of index 11.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Start test test suite for game:13:Check tile of index 13.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Test test suite for game:13:Check tile of index 13 is successful.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: End test test suite for game:13:Check tile of index 13.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Start test test suite for game:15:Check tile of index 15.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Test test suite for game:15:Check tile of index 15 is successful.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: End test test suite for game:15:Check tile of index 15.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Start test test suite for game:18:Check tile of index 18.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Test test suite for game:18:Check tile of index 18 is successful.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: End test test suite for game:18:Check tile of index 18.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Start test test suite for game:20:Check node of index 1.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Test test suite for game:20:Check node of index 1 is successful.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: End test test suite for game:20:Check node of index 1.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Start test test suite for game:22:Check node of index 3.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Test test suite for game:22:Check node of index 3 is successful.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: End test test suite for game:22:Check node of index 3.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Start test test suite for game:24:Check node of index 5.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Test test suite for game:24:Check node of index 5 is successful.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: End test test suite for game:24:Check node of index 5.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Start test test suite for game:26:Check node of index 7.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Test test suite for game:26:Check node of index 7 is successful.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: End test test suite for game:26:Check node of index 7.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Start test test suite for game:28:Check node of index 9.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Test test suite for game:28:Check node of index 9 is successful.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: End test test suite for game:28:Check node of index 9.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Start test test suite for game:30:Check node of index 11.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Test test suite for game:30:Check node of index 11 is successful.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: End test test suite for game:30:Check node of index 11.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Start test test suite for game:33:Check node of index 14.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Test test suite for game:33:Check node of index 14 is successful.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: End test test suite for game:33:Check node of index 14.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Start test test suite for game:35:Check node of index 16.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Test test suite for game:35:Check node of index 16 is successful.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: End test test suite for game:35:Check node of index 16.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Start test test suite for game:37:Check node of index 18.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Test test suite for game:37:Check node of index 18 is successful.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: End test test suite for game:37:Check node of index 18.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Start test test suite for game:38:Check node of index 19.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Test test suite for game:38:Check node of index 19 is successful.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: End test test suite for game:38:Check node of index 19.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Start test test suite for game:40:Check node of index 21.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Test test suite for game:40:Check node of index 21 is successful.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: End test test suite for game:40:Check node of index 21.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Start test test suite for game:42:Check node of index 23.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Test test suite for game:42:Check node of index 23 is successful.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: End test test suite for game:42:Check node of index 23.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Start test test suite for game:45:Check node of index 26.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Test test suite for game:45:Check node of index 26 is successful.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: End test test suite for game:45:Check node of index 26.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Start test test suite for game:46:Check node of index 27.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Test test suite for game:46:Check node of index 27 is successful.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: End test test suite for game:46:Check node of index 27.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Start test test suite for game:49:Check node of index 30.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Test test suite for game:49:Check node of index 30 is successful.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: End test test suite for game:49:Check node of index 30.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Start test test suite for game:50:Check node of index 31.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Test test suite for game:50:Check node of index 31 is successful.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: End test test suite for game:50:Check node of index 31.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Start test test suite for game:53:Check node of index 34.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Test test suite for game:53:Check node of index 34 is successful.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: End test test suite for game:53:Check node of index 34.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Start test test suite for game:55:Check node of index 36.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Test test suite for game:55:Check node of index 36 is successful.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: End test test suite for game:55:Check node of index 36.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Start test test suite for game:56:Check node of index 37.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Test test suite for game:56:Check node of index 37 is successful.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: End test test suite for game:56:Check node of index 37.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Start test test suite for game:58:Check node of index 39.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Test test suite for game:58:Check node of index 39 is successful.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: End test test suite for game:58:Check node of index 39.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Start test test suite for game:60:Check node of index 41.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Test test suite for game:60:Check node of index 41 is successful.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: End test test suite for game:60:Check node of index 41.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Start test test suite for game:62:Check node of index 43.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Test test suite for game:62:Check node of index 43 is successful.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: End test test suite for game:62:Check node of index 43.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Start test test suite for game:64:Check node of index 45.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Test test suite for game:64:Check node of index 45 is successful.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: End test test suite for game:64:Check node of index 45.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Start test test suite for game:66:Check node of index 47.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Test test suite for game:66:Check node of index 47 is successful.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: End test test suite for game:66:Check node of index 47.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Start test test suite for game:67:Check node of index 48.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Test test suite for game:67:Check node of index 48 is successful.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: End test test suite for game:67:Check node of index 48.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Start test test suite for game:69:Check node of index 50.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Test test suite for game:69:Check node of index 50 is successful.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: End test test suite for game:69:Check node of index 50.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Start test test suite for game:72:Check node of index 53.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Test test suite for game:72:Check node of index 53 is successful.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: End test test suite for game:72:Check node of index 53.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Start test test suite for game:73:Check edge of index 0.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Test test suite for game:73:Check edge of index 0 is successful.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: End test test suite for game:73:Check edge of index 0.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Start test test suite for game:76:Check edge of index 3.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Test test suite for game:76:Check edge of index 3 is successful.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: End test test suite for game:76:Check edge of index 3.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Start test test suite for game:77:Check edge of index 4.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Test test suite for game:77:Check edge of index 4 is successful.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: End test test suite for game:77:Check edge of index 4.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Start test test suite for game:79:Check edge of index 6.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Test test suite for game:79:Check edge of index 6 is successful.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: End test test suite for game:79:Check edge of index 6.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Start test test suite for game:82:Check edge of index 9.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Test test suite for game:82:Check edge of index 9 is successful.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: End test test suite for game:82:Check edge of index 9.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Start test test suite for game:83:Check edge of index 10.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Test test suite for game:83:Check edge of index 10 is successful.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: End test test suite for game:83:Check edge of index 10.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Start test test suite for game:85:Check edge of index 12.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Test test suite for game:85:Check edge of index 12 is successful.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: End test test suite for game:85:Check edge of index 12.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Start test test suite for game:88:Check edge of index 15.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Test test suite for game:88:Check edge of index 15 is successful.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: End test test suite for game:88:Check edge of index 15.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Start test test suite for game:89:Check edge of index 16.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Test test suite for game:89:Check edge of index 16 is successful.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: End test test suite for game:89:Check edge of index 16.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Start test test suite for game:91:Check edge of index 18.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Test test suite for game:91:Check edge of index 18 is successful.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: End test test suite for game:91:Check edge of index 18.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Start test test suite for game:93:Check edge of index 20.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Test test suite for game:93:Check edge of index 20 is successful.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: End test test suite for game:93:Check edge of index 20.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Start test test suite for game:95:Check edge of index 22.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Test test suite for game:95:Check edge of index 22 is successful.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: End test test suite for game:95:Check edge of index 22.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Start test test suite for game:96:Check edge of index 23.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Test test suite for game:96:Check edge of index 23 is successful.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: End test test suite for game:96:Check edge of index 23.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Start test test suite for game:98:Check edge of index 25.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Test test suite for game:98:Check edge of index 25 is successful.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: End test test suite for game:98:Check edge of index 25.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Start test test suite for game:100:Check edge of index 27.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Test test suite for game:100:Check edge of index 27 is successful.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: End test test suite for game:100:Check edge of index 27.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Start test test suite for game:103:Check edge of index 30.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Test test suite for game:103:Check edge of index 30 is successful.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: End test test suite for game:103:Check edge of index 30.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Start test test suite for game:104:Check edge of index 31.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Test test suite for game:104:Check edge of index 31 is successful.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: End test test suite for game:104:Check edge of index 31.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Start test test suite for game:107:Check edge of index 34.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Test test suite for game:107:Check edge of index 34 is successful.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: End test test suite for game:107:Check edge of index 34.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Start test test suite for game:108:Check edge of index 35.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Test test suite for game:108:Check edge of index 35 is successful.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: End test test suite for game:108:Check edge of index 35.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Start test test suite for game:111:Check edge of index 38.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Test test suite for game:111:Check edge of index 38 is successful.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: End test test suite for game:111:Check edge of index 38.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Start test test suite for game:113:Check edge of index 40.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Test test suite for game:113:Check edge of index 40 is successful.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: End test test suite for game:113:Check edge of index 40.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Start test test suite for game:115:Check edge of index 42.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Test test suite for game:115:Check edge of index 42 is successful.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: End test test suite for game:115:Check edge of index 42.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Start test test suite for game:116:Check edge of index 43.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Test test suite for game:116:Check edge of index 43 is successful.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: End test test suite for game:116:Check edge of index 43.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Start test test suite for game:119:Check edge of index 46.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Test test suite for game:119:Check edge of index 46 is successful.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: End test test suite for game:119:Check edge of index 46.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Start test test suite for game:120:Check edge of index 47.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Test test suite for game:120:Check edge of index 47 is successful.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: End test test suite for game:120:Check edge of index 47.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Start test test suite for game:122:Check edge of index 49.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Test test suite for game:122:Check edge of index 49 is successful.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: End test test suite for game:122:Check edge of index 49.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Start test test suite for game:124:Check edge of index 51.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Test test suite for game:124:Check edge of index 51 is successful.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: End test test suite for game:124:Check edge of index 51.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Start test test suite for game:126:Check edge of index 53.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Test test suite for game:126:Check edge of index 53 is successful.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: End test test suite for game:126:Check edge of index 53.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Start test test suite for game:128:Check edge of index 55.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Test test suite for game:128:Check edge of index 55 is successful.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: End test test suite for game:128:Check edge of index 55.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Start test test suite for game:130:Check edge of index 57.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Test test suite for game:130:Check edge of index 57 is successful.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: End test test suite for game:130:Check edge of index 57.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Start test test suite for game:132:Check edge of index 59.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Test test suite for game:132:Check edge of index 59 is successful.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: End test test suite for game:132:Check edge of index 59.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Start test test suite for game:134:Check edge of index 61.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Test test suite for game:134:Check edge of index 61 is successful.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: End test test suite for game:134:Check edge of index 61.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Start test test suite for game:136:Check edge of index 63.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Test test suite for game:136:Check edge of index 63 is successful.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: End test test suite for game:136:Check edge of index 63.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Start test test suite for game:138:Check edge of index 65.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Test test suite for game:138:Check edge of index 65 is successful.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: End test test suite for game:138:Check edge of index 65.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Start test test suite for game:139:Check edge of index 66.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Test test suite for game:139:Check edge of index 66 is successful.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: End test test suite for game:139:Check edge of index 66.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Start test test suite for game:141:Check edge of index 68.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Test test suite for game:141:Check edge of index 68 is successful.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: End test test suite for game:141:Check edge of index 68.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Start test test suite for game:143:Check edge of index 70.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Test test suite for game:143:Check edge of index 70 is successful.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: End test test suite for game:143:Check edge of index 70.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Start test test suite for game:145:Basic test for build_road.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Test test suite for game:145:Basic test for build_road is successful.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: End test test suite for game:145:Basic test for build_road.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Start test test suite for game:147:Multiplayer test for build_road.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Test test suite for game:147:Multiplayer test for build_road is successful.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: End test test suite for game:147:Multiplayer test for build_road.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Start test test suite for game:149:Basic test for build_settlement.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Test test suite for game:149:Basic test for build_settlement is successful.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: End test test suite for game:149:Basic test for build_settlement.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Start test test suite for game:151:Multiplayer test for build_settlement.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Test test suite for game:151:Multiplayer test for build_settlement is successful.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: End test test suite for game:151:Multiplayer test for build_settlement.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Start test test suite for game:153:Check when dice roll has one resource.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Test test suite for game:153:Check when dice roll has one resource is successful.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: End test test suite for game:153:Check when dice roll has one resource.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Start test test suite for game:155:Check when dice roll has two different resources.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Test test suite for game:155:Check when dice roll has two different resources is successful.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: End test test suite for game:155:Check when dice roll has two different resources.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Start test test suite for game:157:Check Start command.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Test test suite for game:157:Check Start command is successful.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: End test test suite for game:157:Check Start command.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Start test test suite for game:159:Check BuyCard command.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Test test suite for game:159:Check BuyCard command is successful.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: End test test suite for game:159:Check BuyCard command.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Start test test suite for game:161:Check CheckScore command.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Test test suite for game:161:Check CheckScore command is successful.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: End test test suite for game:161:Check CheckScore command.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Start test test suite for game:162:Check CheckRoads command.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Test test suite for game:162:Check CheckRoads command is successful.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: End test test suite for game:162:Check CheckRoads command.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Start test test suite for game:165:Check EndTurn command.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Test test suite for game:165:Check EndTurn command is successful.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: End test test suite for game:165:Check EndTurn command.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Start test test suite for game:166:Check PlayCard command.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Test test suite for game:166:Check PlayCard command is successful.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: End test test suite for game:166:Check PlayCard command.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Start test test suite for game:168:Check Settle command.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Test test suite for game:168:Check Settle command is successful.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: End test test suite for game:168:Check Settle command.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Start test test suite for game:170:Check Quit command.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: Test test suite for game:170:Check Quit command is successful.
+2023-05-15T04:08:01+00:00 Javiers-MacBook-Pro-5.local#02 I: End test test suite for game:170:Check Quit command.

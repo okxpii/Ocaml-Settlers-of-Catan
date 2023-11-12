@@ -1,0 +1,2 @@
+We have a 4-person group but due to specific circumstances, it was a 3-person group in practice.
+We are over the 1600-LOC threshold, but we think this is pertinent information.

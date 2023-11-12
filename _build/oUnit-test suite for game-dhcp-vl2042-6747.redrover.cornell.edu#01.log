@@ -1,0 +1,101 @@
+2023-03-22T00:52:07+00:00 dhcp-vl2042-6747.redrover.cornell.edu#01 I: Start test test suite for game:0:Check tile of index 0.
+2023-03-22T00:52:07+00:00 dhcp-vl2042-6747.redrover.cornell.edu#01 I: Test test suite for game:0:Check tile of index 0 is successful.
+2023-03-22T00:52:07+00:00 dhcp-vl2042-6747.redrover.cornell.edu#01 I: End test test suite for game:0:Check tile of index 0.
+2023-03-22T00:52:07+00:00 dhcp-vl2042-6747.redrover.cornell.edu#01 I: Start test test suite for game:2:Check node of index 0.
+2023-03-22T00:52:07+00:00 dhcp-vl2042-6747.redrover.cornell.edu#01 I: Test test suite for game:2:Check node of index 0 is successful.
+2023-03-22T00:52:07+00:00 dhcp-vl2042-6747.redrover.cornell.edu#01 I: End test test suite for game:2:Check node of index 0.
+2023-03-22T00:52:07+00:00 dhcp-vl2042-6747.redrover.cornell.edu#01 I: Start test test suite for game:3:Check node of index 53.
+2023-03-22T00:52:07+00:00 dhcp-vl2042-6747.redrover.cornell.edu#01 I: Test test suite for game:3:Check node of index 53 is successful.
+2023-03-22T00:52:07+00:00 dhcp-vl2042-6747.redrover.cornell.edu#01 I: End test test suite for game:3:Check node of index 53.
+2023-03-22T00:52:07+00:00 dhcp-vl2042-6747.redrover.cornell.edu#01 I: Start test test suite for game:5:Check edge of index 71.
+2023-03-22T00:52:07+00:00 dhcp-vl2042-6747.redrover.cornell.edu#01 I: Test test suite for game:5:Check edge of index 71 is successful.
+2023-03-22T00:52:07+00:00 dhcp-vl2042-6747.redrover.cornell.edu#01 I: End test test suite for game:5:Check edge of index 71.
+2023-03-22T00:52:07+00:00 dhcp-vl2042-6747.redrover.cornell.edu#01 I: Start test test suite for game:7:Check when return has length one.
+2023-03-22T00:52:07+00:00 dhcp-vl2042-6747.redrover.cornell.edu#01 I: Test test suite for game:7:Check when return has length one is successful.
+2023-03-22T00:52:07+00:00 dhcp-vl2042-6747.redrover.cornell.edu#01 I: End test test suite for game:7:Check when return has length one.
+2023-03-22T00:52:07+00:00 dhcp-vl2042-6747.redrover.cornell.edu#01 I: Start test test suite for game:9:Check.
+2023-03-22T00:52:07+00:00 dhcp-vl2042-6747.redrover.cornell.edu#01 E: Test test suite for game:9:Check has failed.
+2023-03-22T00:52:07+00:00 dhcp-vl2042-6747.redrover.cornell.edu#01 E: expected: 
+2023-03-22T00:52:07+00:00 dhcp-vl2042-6747.redrover.cornell.edu#01 E: [                    none      none      none                     ]
+2023-03-22T00:52:07+00:00 dhcp-vl2042-6747.redrover.cornell.edu#01 E: 
+2023-03-22T00:52:07+00:00 dhcp-vl2042-6747.redrover.cornell.edu#01 E: 
+2023-03-22T00:52:07+00:00 dhcp-vl2042-6747.redrover.cornell.edu#01 E: [               none      none      none      none                ]
+2023-03-22T00:52:07+00:00 dhcp-vl2042-6747.redrover.cornell.edu#01 E: 
+2023-03-22T00:52:07+00:00 dhcp-vl2042-6747.redrover.cornell.edu#01 E: 
+2023-03-22T00:52:07+00:00 dhcp-vl2042-6747.redrover.cornell.edu#01 E: [               none      none      none      none                ]
+2023-03-22T00:52:07+00:00 dhcp-vl2042-6747.redrover.cornell.edu#01 E: 
+2023-03-22T00:52:07+00:00 dhcp-vl2042-6747.redrover.cornell.edu#01 E: 
+2023-03-22T00:52:07+00:00 dhcp-vl2042-6747.redrover.cornell.edu#01 E: [          none      none      none      none      none           ]
+2023-03-22T00:52:07+00:00 dhcp-vl2042-6747.redrover.cornell.edu#01 E: 
+2023-03-22T00:52:07+00:00 dhcp-vl2042-6747.redrover.cornell.edu#01 E: 
+2023-03-22T00:52:07+00:00 dhcp-vl2042-6747.redrover.cornell.edu#01 E: [          none      none      none      none      none           ]
+2023-03-22T00:52:07+00:00 dhcp-vl2042-6747.redrover.cornell.edu#01 E: 
+2023-03-22T00:52:07+00:00 dhcp-vl2042-6747.redrover.cornell.edu#01 E: 
+2023-03-22T00:52:07+00:00 dhcp-vl2042-6747.redrover.cornell.edu#01 E: [     none      none      none      none      none      none      ]
+2023-03-22T00:52:07+00:00 dhcp-vl2042-6747.redrover.cornell.edu#01 E: 
+2023-03-22T00:52:07+00:00 dhcp-vl2042-6747.redrover.cornell.edu#01 E: 
+2023-03-22T00:52:07+00:00 dhcp-vl2042-6747.redrover.cornell.edu#01 E: [     none      none      none      none      none      none      ]
+2023-03-22T00:52:07+00:00 dhcp-vl2042-6747.redrover.cornell.edu#01 E: 
+2023-03-22T00:52:07+00:00 dhcp-vl2042-6747.redrover.cornell.edu#01 E: 
+2023-03-22T00:52:07+00:00 dhcp-vl2042-6747.redrover.cornell.edu#01 E: [          none      none      none      none      none           ]
+2023-03-22T00:52:07+00:00 dhcp-vl2042-6747.redrover.cornell.edu#01 E: 
+2023-03-22T00:52:07+00:00 dhcp-vl2042-6747.redrover.cornell.edu#01 E: 
+2023-03-22T00:52:07+00:00 dhcp-vl2042-6747.redrover.cornell.edu#01 E: [          none      none      none      none      none           ]
+2023-03-22T00:52:07+00:00 dhcp-vl2042-6747.redrover.cornell.edu#01 E: 
+2023-03-22T00:52:07+00:00 dhcp-vl2042-6747.redrover.cornell.edu#01 E: 
+2023-03-22T00:52:07+00:00 dhcp-vl2042-6747.redrover.cornell.edu#01 E: [               none      none      none      none                ]
+2023-03-22T00:52:07+00:00 dhcp-vl2042-6747.redrover.cornell.edu#01 E: 
+2023-03-22T00:52:07+00:00 dhcp-vl2042-6747.redrover.cornell.edu#01 E: 
+2023-03-22T00:52:07+00:00 dhcp-vl2042-6747.redrover.cornell.edu#01 E: [               none      none      none      none                ]
+2023-03-22T00:52:07+00:00 dhcp-vl2042-6747.redrover.cornell.edu#01 E: 
+2023-03-22T00:52:07+00:00 dhcp-vl2042-6747.redrover.cornell.edu#01 E: 
+2023-03-22T00:52:07+00:00 dhcp-vl2042-6747.redrover.cornell.edu#01 E: [                    none      none      none                     ]
+2023-03-22T00:52:07+00:00 dhcp-vl2042-6747.redrover.cornell.edu#01 E: 
+2023-03-22T00:52:07+00:00 dhcp-vl2042-6747.redrover.cornell.edu#01 E: 
+2023-03-22T00:52:07+00:00 dhcp-vl2042-6747.redrover.cornell.edu#01 E: 
+2023-03-22T00:52:07+00:00 dhcp-vl2042-6747.redrover.cornell.edu#01 E: 
+2023-03-22T00:52:07+00:00 dhcp-vl2042-6747.redrover.cornell.edu#01 E: 
+2023-03-22T00:52:07+00:00 dhcp-vl2042-6747.redrover.cornell.edu#01 E: but got: 
+2023-03-22T00:52:07+00:00 dhcp-vl2042-6747.redrover.cornell.edu#01 E: [                    none      none      none                     ]
+2023-03-22T00:52:07+00:00 dhcp-vl2042-6747.redrover.cornell.edu#01 E: 
+2023-03-22T00:52:07+00:00 dhcp-vl2042-6747.redrover.cornell.edu#01 E: 
+2023-03-22T00:52:07+00:00 dhcp-vl2042-6747.redrover.cornell.edu#01 E: [               none      none      none      none                ]
+2023-03-22T00:52:07+00:00 dhcp-vl2042-6747.redrover.cornell.edu#01 E: 
+2023-03-22T00:52:07+00:00 dhcp-vl2042-6747.redrover.cornell.edu#01 E: 
+2023-03-22T00:52:07+00:00 dhcp-vl2042-6747.redrover.cornell.edu#01 E: [               Red       none      none      none                ]
+2023-03-22T00:52:07+00:00 dhcp-vl2042-6747.redrover.cornell.edu#01 E: 
+2023-03-22T00:52:07+00:00 dhcp-vl2042-6747.redrover.cornell.edu#01 E: 
+2023-03-22T00:52:07+00:00 dhcp-vl2042-6747.redrover.cornell.edu#01 E: [          none      none      none      none      none           ]
+2023-03-22T00:52:07+00:00 dhcp-vl2042-6747.redrover.cornell.edu#01 E: 
+2023-03-22T00:52:07+00:00 dhcp-vl2042-6747.redrover.cornell.edu#01 E: 
+2023-03-22T00:52:07+00:00 dhcp-vl2042-6747.redrover.cornell.edu#01 E: [          none      none      none      none      none           ]
+2023-03-22T00:52:07+00:00 dhcp-vl2042-6747.redrover.cornell.edu#01 E: 
+2023-03-22T00:52:07+00:00 dhcp-vl2042-6747.redrover.cornell.edu#01 E: 
+2023-03-22T00:52:07+00:00 dhcp-vl2042-6747.redrover.cornell.edu#01 E: [     none      none      none      none      none      none      ]
+2023-03-22T00:52:07+00:00 dhcp-vl2042-6747.redrover.cornell.edu#01 E: 
+2023-03-22T00:52:07+00:00 dhcp-vl2042-6747.redrover.cornell.edu#01 E: 
+2023-03-22T00:52:07+00:00 dhcp-vl2042-6747.redrover.cornell.edu#01 E: [     none      none      none      none      none      none      ]
+2023-03-22T00:52:07+00:00 dhcp-vl2042-6747.redrover.cornell.edu#01 E: 
+2023-03-22T00:52:07+00:00 dhcp-vl2042-6747.redrover.cornell.edu#01 E: 
+2023-03-22T00:52:07+00:00 dhcp-vl2042-6747.redrover.cornell.edu#01 E: [          none      none      none      none      none           ]
+2023-03-22T00:52:07+00:00 dhcp-vl2042-6747.redrover.cornell.edu#01 E: 
+2023-03-22T00:52:07+00:00 dhcp-vl2042-6747.redrover.cornell.edu#01 E: 
+2023-03-22T00:52:07+00:00 dhcp-vl2042-6747.redrover.cornell.edu#01 E: [          none      none      none      none      none           ]
+2023-03-22T00:52:07+00:00 dhcp-vl2042-6747.redrover.cornell.edu#01 E: 
+2023-03-22T00:52:07+00:00 dhcp-vl2042-6747.redrover.cornell.edu#01 E: 
+2023-03-22T00:52:07+00:00 dhcp-vl2042-6747.redrover.cornell.edu#01 E: [               none      none      none      none                ]
+2023-03-22T00:52:07+00:00 dhcp-vl2042-6747.redrover.cornell.edu#01 E: 
+2023-03-22T00:52:07+00:00 dhcp-vl2042-6747.redrover.cornell.edu#01 E: 
+2023-03-22T00:52:07+00:00 dhcp-vl2042-6747.redrover.cornell.edu#01 E: [               none      none      none      none                ]
+2023-03-22T00:52:07+00:00 dhcp-vl2042-6747.redrover.cornell.edu#01 E: 
+2023-03-22T00:52:07+00:00 dhcp-vl2042-6747.redrover.cornell.edu#01 E: 
+2023-03-22T00:52:07+00:00 dhcp-vl2042-6747.redrover.cornell.edu#01 E: [                    none      none      none                     ]
+2023-03-22T00:52:07+00:00 dhcp-vl2042-6747.redrover.cornell.edu#01 E: 
+2023-03-22T00:52:07+00:00 dhcp-vl2042-6747.redrover.cornell.edu#01 E: 
+2023-03-22T00:52:07+00:00 dhcp-vl2042-6747.redrover.cornell.edu#01 E: 
+2023-03-22T00:52:07+00:00 dhcp-vl2042-6747.redrover.cornell.edu#01 E: 
+2023-03-22T00:52:07+00:00 dhcp-vl2042-6747.redrover.cornell.edu#01 E:  in test test suite for game:9:Check.
+2023-03-22T00:52:07+00:00 dhcp-vl2042-6747.redrover.cornell.edu#01 E: Raised at OUnitAssert.assert_failure in file "src/lib/ounit2/advanced/oUnitAssert.ml", line 45, characters 2-27
+2023-03-22T00:52:07+00:00 dhcp-vl2042-6747.redrover.cornell.edu#01 E: Called from OUnitRunner.run_one_test.(fun) in file "src/lib/ounit2/advanced/oUnitRunner.ml", line 83, characters 13-26
+2023-03-22T00:52:07+00:00 dhcp-vl2042-6747.redrover.cornell.edu#01 E: 
+2023-03-22T00:52:07+00:00 dhcp-vl2042-6747.redrover.cornell.edu#01 I: End test test suite for game:9:Check.

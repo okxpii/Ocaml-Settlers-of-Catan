@@ -1,0 +1,33 @@
+To install and run Settlers of Caml-tan, please follow these instructions:
+
+1. Install Ocaml using this link:
+ https://cs3110.github.io/textbook/chapters/preface/install.html
+2. Open a new terminal 
+3. Download and unzip the zip file (If needed, you can zip the file by running "make zip" in the VSCode terminal)
+4. Change directory (cd) into the new unzipped directory
+5. Run "make build"
+6. Type "make play" into command line  
+8. Follow the commands and instructions in the README file to play the game!
+
+A full list of commands is as follows: 
+- quit: This will end the entire program (and game)
+- roll: At the start of every turn, a player should roll the dice. The dice roll corresponds to one or two tiles on the board; resources from those tiles will be added to the player’s resource list.
+- check cards: A current player can check the cards in their development_cards list with this command.
+- check resources: A current player can check the resources in their resources list with this command.
+- check score: A current player can check their score with this command.
+- check settlements: A current player can check the number of settlements they have with this command.
+- check roads:  A current player can check the number of roads they have with this command.
+- end turn:  A current player can end their turn with this command. The program automatically moves to the next player's turn
+- settle: A current player can settle a specified node with this command.
+- build road: A current player can build a road on a specified edge with this command 
+- buy card: A current player can buy a development card with this command
+- play card: A current player can play one of their development cards with this command. 
+
+The development cards are as follows: 
+- monopoly: A player must enter the name of the resource they want to take in the terminal. Once they do so, any of that resource that the other players possess will be added to the current player's collection of resources. 
+- year of plenty: A player may select two resources of their choice from the bank when they play this card. They will be added to their resources.
+- road building: A player may build two roads in one turn when playing this card.
+- victory point: A player is awarded one victory point when they play this card.
+
+Note: If you do not properly input a command more than two times consecutively, 
+the program will likely quit.

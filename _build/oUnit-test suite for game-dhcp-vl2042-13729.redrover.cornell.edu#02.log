@@ -1,0 +1,27 @@
+2023-05-13T01:02:03+00:00 dhcp-vl2042-13729.redrover.cornell.edu#02 I: Start test test suite for game:1:Check tile of index .
+2023-05-13T01:02:03+00:00 dhcp-vl2042-13729.redrover.cornell.edu#02 I: Test test suite for game:1:Check tile of index  is successful.
+2023-05-13T01:02:03+00:00 dhcp-vl2042-13729.redrover.cornell.edu#02 I: End test test suite for game:1:Check tile of index .
+2023-05-13T01:02:03+00:00 dhcp-vl2042-13729.redrover.cornell.edu#02 I: Start test test suite for game:4:Check edge of index 0.
+2023-05-13T01:02:03+00:00 dhcp-vl2042-13729.redrover.cornell.edu#02 I: Test test suite for game:4:Check edge of index 0 is successful.
+2023-05-13T01:02:03+00:00 dhcp-vl2042-13729.redrover.cornell.edu#02 I: End test test suite for game:4:Check edge of index 0.
+2023-05-13T01:02:03+00:00 dhcp-vl2042-13729.redrover.cornell.edu#02 I: Start test test suite for game:5:Check edge of index 71.
+2023-05-13T01:02:03+00:00 dhcp-vl2042-13729.redrover.cornell.edu#02 I: Test test suite for game:5:Check edge of index 71 is successful.
+2023-05-13T01:02:03+00:00 dhcp-vl2042-13729.redrover.cornell.edu#02 I: End test test suite for game:5:Check edge of index 71.
+2023-05-13T01:02:03+00:00 dhcp-vl2042-13729.redrover.cornell.edu#02 I: Start test test suite for game:7:Complex test for build_road.
+2023-05-13T01:02:03+00:00 dhcp-vl2042-13729.redrover.cornell.edu#02 I: Test test suite for game:7:Complex test for build_road is successful.
+2023-05-13T01:02:03+00:00 dhcp-vl2042-13729.redrover.cornell.edu#02 I: End test test suite for game:7:Complex test for build_road.
+2023-05-13T01:02:03+00:00 dhcp-vl2042-13729.redrover.cornell.edu#02 I: Start test test suite for game:10:Basic test for build_settlement.
+2023-05-13T01:02:03+00:00 dhcp-vl2042-13729.redrover.cornell.edu#02 I: Test test suite for game:10:Basic test for build_settlement is successful.
+2023-05-13T01:02:03+00:00 dhcp-vl2042-13729.redrover.cornell.edu#02 I: End test test suite for game:10:Basic test for build_settlement.
+2023-05-13T01:02:03+00:00 dhcp-vl2042-13729.redrover.cornell.edu#02 I: Start test test suite for game:12:Multiplayer test for build_settlement.
+2023-05-13T01:02:03+00:00 dhcp-vl2042-13729.redrover.cornell.edu#02 I: Test test suite for game:12:Multiplayer test for build_settlement is successful.
+2023-05-13T01:02:03+00:00 dhcp-vl2042-13729.redrover.cornell.edu#02 I: End test test suite for game:12:Multiplayer test for build_settlement.
+2023-05-13T01:02:03+00:00 dhcp-vl2042-13729.redrover.cornell.edu#02 I: Start test test suite for game:14:Check when dice roll has one resource.
+2023-05-13T01:02:03+00:00 dhcp-vl2042-13729.redrover.cornell.edu#02 I: Test test suite for game:14:Check when dice roll has one resource is successful.
+2023-05-13T01:02:03+00:00 dhcp-vl2042-13729.redrover.cornell.edu#02 I: End test test suite for game:14:Check when dice roll has one resource.
+2023-05-13T01:02:03+00:00 dhcp-vl2042-13729.redrover.cornell.edu#02 I: Start test test suite for game:16:Check when dice roll has two different resources.
+2023-05-13T01:02:03+00:00 dhcp-vl2042-13729.redrover.cornell.edu#02 I: Test test suite for game:16:Check when dice roll has two different resources is successful.
+2023-05-13T01:02:03+00:00 dhcp-vl2042-13729.redrover.cornell.edu#02 I: End test test suite for game:16:Check when dice roll has two different resources.
+2023-05-13T01:02:03+00:00 dhcp-vl2042-13729.redrover.cornell.edu#02 I: Start test test suite for game:17:Check.
+2023-05-13T01:02:03+00:00 dhcp-vl2042-13729.redrover.cornell.edu#02 I: Test test suite for game:17:Check is successful.
+2023-05-13T01:02:03+00:00 dhcp-vl2042-13729.redrover.cornell.edu#02 I: End test test suite for game:17:Check.
