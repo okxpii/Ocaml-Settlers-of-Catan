@@ -1,9 +1,9 @@
-# dune build
+# dune exec bin/main.exe
 # OCAMLPARAM: unset
 # Shared cache: disabled
-# Workspace root: /Users/javi/3110/placeholder
+# Workspace root: /Users/javi/projects/Ocaml-Settlers-of-Catan
 # Auto-detected concurrency: 8
-$ /Users/javi/.opam/cs3110-2023sp/bin/ocamlc.opt -config > /var/folders/0j/1rhcqn_173b1sxlypl_4f72w0000gn/T/dune_ca7eed_output
+$ /Users/javi/.opam/cs3110-2023sp/bin/ocamlc.opt -config > /var/folders/0j/1rhcqn_173b1sxlypl_4f72w0000gn/T/dune_5f300f_output
 # Dune context:
 #  { name = "default"
 #  ; kind = "default"
@@ -25,16 +25,17 @@ $ /Users/javi/.opam/cs3110-2023sp/bin/ocamlc.opt -config > /var/folders/0j/1rhcq
 #      map
 #        { "DUNE_OCAML_HARDCODED" : "/Users/javi/.opam/cs3110-2023sp/lib"
 #        ; "DUNE_OCAML_STDLIB" : "/Users/javi/.opam/cs3110-2023sp/lib/ocaml"
-#        ; "DUNE_SOURCEROOT" : "/Users/javi/3110/placeholder"
-#        ; "INSIDE_DUNE" : "/Users/javi/3110/placeholder/_build/default"
+#        ; "DUNE_SOURCEROOT" : "/Users/javi/projects/Ocaml-Settlers-of-Catan"
+#        ; "INSIDE_DUNE" :
+#            "/Users/javi/projects/Ocaml-Settlers-of-Catan/_build/default"
 #        ; "MANPATH" :
-#            "/Users/javi/3110/placeholder/_build/install/default/bin"
+#            "/Users/javi/projects/Ocaml-Settlers-of-Catan/_build/install/default/bin"
 #        ; "OCAMLFIND_IGNORE_DUPS_IN" :
-#            "/Users/javi/3110/placeholder/_build/install/default/lib"
+#            "/Users/javi/projects/Ocaml-Settlers-of-Catan/_build/install/default/lib"
 #        ; "OCAMLPATH" :
-#            "/Users/javi/3110/placeholder/_build/install/default/lib"
+#            "/Users/javi/projects/Ocaml-Settlers-of-Catan/_build/install/default/lib"
 #        ; "OCAMLTOP_INCLUDE_PATH" :
-#            "/Users/javi/3110/placeholder/_build/install/default/lib/toplevel"
+#            "/Users/javi/projects/Ocaml-Settlers-of-Catan/_build/install/default/lib/toplevel"
 #        ; "OCAML_COLOR" : "always"
 #        ; "OPAMCOLOR" : "always"
 #        }
