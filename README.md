@@ -1,1 +1,1 @@
-This was the final project for CS 3110 in Spring 2023
+This was the final project for CS 3110 in Spring 2023. I was responsible for setting up the board display and game state, and also helped set up the player commands. If you'd like to play, please read the install.txt file.
